@@ -87,8 +87,9 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Alikhan018&locale=en&mode=daily&theme=darcula&hide_border=true&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=Alikhan018&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alikhan018&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Charts" height="150" alt="languages graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=Alikhan018&theme=dracula&no-frame=true&no-bg=true&margin-h=0&margin-w=28&column=9&row=1" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alikhan018&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Charts" height="150" alt="languages graph" /> 
+  <img src="https://github-profile-trophy.vercel.app?username=Alikhan018&theme=dracula&no-frame=true&no-bg=true&margin-h=0&margin-w=28&column=9&row=1" height="150" alt="trophy graph" />
+   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alikhan018&theme=dracula&hide_border=true&area=true" height="150" alt="activity-graph graph"  />
 </div>
 
