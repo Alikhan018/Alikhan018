@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Ali Khan and I'm a Full Stack Developer, from NY</h1>
+<h1 align="left">Hi 👋! My name is Muhammad Ali Khan and I'm a Full Stack JS Developer, from NY</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alikhan018&label=Profile%20views&color=0e75b6&style=flat" alt="alikhan018" /> </p>
 
